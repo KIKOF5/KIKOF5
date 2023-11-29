@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KIKOF5
 - 👀 I’m developer fivem
-- 🌱 Developer fom fivem bases ESX AND VRP
+- 🌱 Developer from fivem bases ESX AND VRP
 - 📫 How to reach me in discord @ dev_kikof5
 
 <!---
